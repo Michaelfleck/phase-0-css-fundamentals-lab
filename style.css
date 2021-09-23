@@ -1,5 +1,59 @@
+h1 {
+  text-align: center;
+}
+
+header{
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.a1{
+  background-color: rgb(187,187,187);
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+/*#featured-property{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+}
+*/
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
 }
+
+#featured-property > p{
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+}
+
+#details div {
+  float: left;
+  background-color: red;
+  width: 25%;
+}
+
+/*
+#details div {
+  float: left;
+  background-color: red;
+  padding-left: 166px;
+  padding-right: 166px;
+}
+*/
+
+
+
+
+
+
+
